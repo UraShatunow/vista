@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vista/static/css/main.a617e044.chunk.css",
+    "main.js": "/vista/static/js/main.e37f7e8e.chunk.js",
+    "main.js.map": "/vista/static/js/main.e37f7e8e.chunk.js.map",
+    "runtime-main.js": "/vista/static/js/runtime-main.8c6d46da.js",
+    "runtime-main.js.map": "/vista/static/js/runtime-main.8c6d46da.js.map",
+    "static/js/2.84351a71.chunk.js": "/vista/static/js/2.84351a71.chunk.js",
+    "static/js/2.84351a71.chunk.js.map": "/vista/static/js/2.84351a71.chunk.js.map",
+    "static/js/3.992985be.chunk.js": "/vista/static/js/3.992985be.chunk.js",
+    "static/js/3.992985be.chunk.js.map": "/vista/static/js/3.992985be.chunk.js.map",
+    "index.html": "/vista/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/vista/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.84351a71.chunk.js.LICENSE.txt": "/vista/static/js/2.84351a71.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vista/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c6d46da.js",
+    "static/js/2.84351a71.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e37f7e8e.chunk.js"
+  ]
+}
