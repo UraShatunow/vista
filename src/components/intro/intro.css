@@ -1,0 +1,29 @@
+.intro {
+    height: 130vh;
+    background: no-repeat top url('./intro-cover.webp');
+    background-attachment: fixed;
+    padding-top: 200px;
+}
+
+.intro__inner {
+    width: 800px;
+}
+
+.intro__inner h1 {
+    font-size: 80px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.2;
+    font-weight: 600;
+}
+
+.intro__inner h2 {
+    font-size: 30px;
+    line-height: 1.4;
+    width: 450px;
+    font-weight: 400;
+    margin-top: 40px;
+}
+
+.intro__button {
+    margin-top: 60px;
+}
