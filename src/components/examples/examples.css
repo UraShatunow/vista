@@ -1,0 +1,114 @@
+.examples__card svg {
+    width: 40px;
+    height: 40px;
+}
+
+.examples__inner {
+    display: flex;
+    border: 1px solid #3F4349;
+    position: relative;
+    top: -150px;
+    background-color: #141416;
+}
+
+.examples__text {
+    width: 40%;
+    border-right: 1px solid #3F4349;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-image: url('./img/examples-cover.webp');
+    background-size: 150%;
+}
+
+.examples__text-inner {
+    width: 300px;
+}
+
+.examples__text-inner h2 {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.examples__text-inner p {
+    font-size: 16px;
+    color: #8A8A8A;
+    line-height: 1.8em;
+    margin-top: 20px;
+}
+
+.examples__cards {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+}
+
+.examples__card {
+    width: 240px;
+    background-color: #1B1C1E;
+    padding: 25px;
+    margin: 20px 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.examples__card-inner {
+    overflow: hidden;
+}
+
+.examples__card h3 {
+    font-size: 18px;
+    color: #889CE7;
+    margin-top: 60px;
+    line-height: 1.8em;
+}
+
+.examples__card p {
+    font-size: 14px;
+    color: #8A8A8A;
+    margin-top: 10px;
+    line-height: 1.6em;
+}
+
+.examples__stripe {
+    width: 100%;
+    height: 4px;
+    background: #3F4349;
+    margin-top: 20px;
+    border-radius: 100px;
+}
+
+
+.examles__pic {
+    width: 50px;
+    height: 50px;
+    background: no-repeat center/contain;
+}
+
+.examles__pic-1 {
+    background-image: url('./img/examples-1.png');
+}
+
+.examles__pic-2 {
+    background-image: url('./img/examples-2.png');
+}
+
+.examles__pic-3 {
+    background-image: url('./img/examples-3.png');
+}
+
+.examles__pic-4 {
+    background-image: url('./img/examples-4.png');
+}
+
+.examples__cards-group-1 {
+    position: relative;
+    top: -120px;
+}
+
+.examples__cards-group-2 {
+    position: relative;
+    bottom: -120px;
+}

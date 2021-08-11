@@ -1,0 +1,39 @@
+.text-section {
+    margin-top: 50px;
+}
+
+.text-section__inner {
+    display: flex;
+    border: 1px solid #3F4349;
+}
+
+.text-section__pic {
+    width: 50%;
+    border-right: 1px solid #3F4349;
+    background: no-repeat center/cover url('./pic.webp');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.text-section__pic h2 {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-section__text {
+    width: 50%;
+}
+
+.text-section__text-inner {
+    width: 360px;
+    margin: 100px auto;
+}
+
+.text-section__text-inner p {
+    font-size: 16px;
+    color: #8A8A8A;
+    line-height: 1.8em;
+    margin-bottom: 20px;
+}

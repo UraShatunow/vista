@@ -39,15 +39,13 @@ export default class Intro extends Component {
       backgroundPosition: positionValue
     }
 
-    console.log(sizeValue, positionValue);
-
     return (
         <div className="intro" style={divStyle} >
             <div className="container intro__container">
               <div className="intro__inner">
-                <h1 data-aos="fade-right" data-aos-duration="1500">The New Standard in Data Analysis</h1>
-                <h2 data-aos="fade-right" data-aos-duration="1500" data-aos-delay="200">Use Data to Get a 360-Degree View of Your Business</h2>
-                <Link to="/" className="button_red intro__button" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="400">Learn More</Link>
+                <h1 data-aos="fade-right" data-aos-duration="2000">The New Standard in Data Analysis</h1>
+                <h2 data-aos="fade-right" data-aos-duration="2000" data-aos-delay="200">Use Data to Get a 360-Degree View of Your Business</h2>
+                <Link to="/" className="button_red intro__button" data-aos="fade-right" data-aos-duration="2000" data-aos-delay="400">Learn More</Link>
               </div>
             </div>
         </div>

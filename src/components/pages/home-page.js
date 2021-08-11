@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import Intro from '../intro';
 import Header from '../header';
+import Examples from '../examples';
+import TextSection from '../text-section';
 
 
 export default class HomePage extends Component {
@@ -10,7 +12,9 @@ export default class HomePage extends Component {
     return (
       <div className="home">
         <Header />
-        <Intro />                                                                                                                                                                                                        
+        <Intro />
+        <Examples />
+        <TextSection />                                                                                                                                                                                                        
       </div>
     );
   }

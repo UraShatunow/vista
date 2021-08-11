@@ -11,6 +11,11 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.app {
+    min-height: 100vh;
+    background-color: #141416;
+}
+
 .container {
     width: 90%;
     margin: 0 auto;
