@@ -38,7 +38,9 @@ export default class TextSection extends Component {
                             business and what makes you different from your competitors. Make your 
                             company stand out and show your visitors who you are.
                         </p>
-                        <Link to="/" className="button button_red">Learn More</Link>
+                        <div data-aos="fade-right" data-aos-duration="1500">
+                          <Link to="/" className="button button_red">Learn More</Link>
+                        </div>
                     </div>
                 </div>
               </div>

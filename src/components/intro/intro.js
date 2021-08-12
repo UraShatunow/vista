@@ -45,7 +45,9 @@ export default class Intro extends Component {
               <div className="intro__inner">
                 <h1 data-aos="fade-right" data-aos-duration="2000">The New Standard in Data Analysis</h1>
                 <h2 data-aos="fade-right" data-aos-duration="2000" data-aos-delay="200">Use Data to Get a 360-Degree View of Your Business</h2>
-                <Link to="/" className="button_red intro__button" data-aos="fade-right" data-aos-duration="2000" data-aos-delay="400">Learn More</Link>
+                <div data-aos="fade-right" data-aos-duration="2000" data-aos-delay="400">
+                  <Link to="/" className="button_red intro__button">Learn More</Link>
+                </div>
               </div>
             </div>
         </div>

@@ -3,6 +3,9 @@ import Intro from '../intro';
 import Header from '../header';
 import Examples from '../examples';
 import TextSection from '../text-section';
+import Numbers from '../numbers';
+import Abstraction from '../abstraction';
+import Business from '../business';
 
 
 export default class HomePage extends Component {
@@ -14,7 +17,10 @@ export default class HomePage extends Component {
         <Header />
         <Intro />
         <Examples />
-        <TextSection />                                                                                                                                                                                                        
+        <TextSection />
+        <Numbers />
+        <Abstraction />
+        <Business />                                                                                                                                                                                                       
       </div>
     );
   }

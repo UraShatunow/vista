@@ -1,0 +1,7 @@
+.abstraction {
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: 140%;
+    background-image: url('./abstraction.webp');
+    background-position-y: bottom;
+}

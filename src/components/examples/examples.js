@@ -34,10 +34,8 @@ export default class Examples extends Component {
         const positionValue = `${yValue}%`;
 
         const divStyle = {
-        backgroundPosition: positionValue
+            backgroundPosition: positionValue
         }
-
-        console.log(yValue);
 
         return (
         <div className="examples">

@@ -37,3 +37,7 @@
     line-height: 1.8em;
     margin-bottom: 20px;
 }
+
+.text-section__text-inner div {
+    display: inline-block;
+}
