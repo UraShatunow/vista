@@ -1,26 +1,32 @@
 {
   "files": {
-    "main.css": "/vista/static/css/main.eb9f364f.chunk.css",
-    "main.js": "/vista/static/js/main.85ea3aa4.chunk.js",
-    "main.js.map": "/vista/static/js/main.85ea3aa4.chunk.js.map",
+    "main.css": "/vista/static/css/main.1122d414.chunk.css",
+    "main.js": "/vista/static/js/main.2831d01b.chunk.js",
+    "main.js.map": "/vista/static/js/main.2831d01b.chunk.js.map",
     "runtime-main.js": "/vista/static/js/runtime-main.d77272ff.js",
     "runtime-main.js.map": "/vista/static/js/runtime-main.d77272ff.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/vista/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.d17bd3e1.chunk.js": "/vista/static/js/2.d17bd3e1.chunk.js",
-    "static/js/2.d17bd3e1.chunk.js.map": "/vista/static/js/2.d17bd3e1.chunk.js.map",
+    "static/js/2.f6628503.chunk.js": "/vista/static/js/2.f6628503.chunk.js",
+    "static/js/2.f6628503.chunk.js.map": "/vista/static/js/2.f6628503.chunk.js.map",
     "index.html": "/vista/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/vista/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.eb9f364f.chunk.css.map": "/vista/static/css/main.eb9f364f.chunk.css.map",
-    "static/js/2.d17bd3e1.chunk.js.LICENSE.txt": "/vista/static/js/2.d17bd3e1.chunk.js.LICENSE.txt",
+    "static/css/main.1122d414.chunk.css.map": "/vista/static/css/main.1122d414.chunk.css.map",
+    "static/js/2.f6628503.chunk.js.LICENSE.txt": "/vista/static/js/2.f6628503.chunk.js.LICENSE.txt",
+    "static/media/abstraction.css": "/vista/static/media/abstraction.e360db90.webp",
+    "static/media/business.css": "/vista/static/media/business-bg.74bf7036.webp",
     "static/media/examples.css": "/vista/static/media/examples-cover.82131cc1.webp",
     "static/media/intro.css": "/vista/static/media/intro-cover.e4a411d8.webp",
+    "static/media/pic-1.3db2d63b.webp": "/vista/static/media/pic-1.3db2d63b.webp",
+    "static/media/pic-2.3ed47f0c.webp": "/vista/static/media/pic-2.3ed47f0c.webp",
+    "static/media/pic-3.6794b85f.webp": "/vista/static/media/pic-3.6794b85f.webp",
+    "static/media/pic-4.2bf74fe0.webp": "/vista/static/media/pic-4.2bf74fe0.webp",
     "static/media/text-section.css": "/vista/static/media/pic.7f677a74.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.d77272ff.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.d17bd3e1.chunk.js",
-    "static/css/main.eb9f364f.chunk.css",
-    "static/js/main.85ea3aa4.chunk.js"
+    "static/js/2.f6628503.chunk.js",
+    "static/css/main.1122d414.chunk.css",
+    "static/js/main.2831d01b.chunk.js"
   ]
 }
