@@ -5,7 +5,8 @@ import './header.css';
 export default class Header extends Component {
   
   state = {
-      visible: true
+    prevScrollpos: window.pageYOffset,
+    visible: true
   }
 
   componentDidMount() {
@@ -18,15 +19,19 @@ export default class Header extends Component {
 
   handleScroll = () => {
 
+    const { prevScrollpos } = this.state;
+
     const currentScrollPos = window.pageYOffset;
-    const visible = currentScrollPos < 200;
+    const visible = prevScrollpos > currentScrollPos;
 
     this.setState({
+      prevScrollpos: currentScrollPos,
       visible
     });
   };
 
   render() {
+
     return (
       <div className={`header${this.state.visible ? "" : " header_hidden" }`}>
         <div className="container header__container">

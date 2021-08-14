@@ -1,0 +1,131 @@
+.footer {
+    padding-bottom: 80px;
+}
+
+.footer__logo {
+    display: inline-block;
+    font-family: 'Barlow', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+
+.footer__inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__address p {
+    color: #8a8a8a;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.footer__nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer__nav-item {
+    margin-bottom: 30px;
+    font-size: 18px;
+    color: #8a8a8a;
+}
+
+.footer__form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 280px;
+}
+
+.footer__form legend {
+    font-size: 18px;
+    color: #8a8a8a;
+}
+
+.footer__form label {
+    font-size: 14px;
+    color: #8a8a8a;
+    margin-top: 25px;
+}
+
+.footer__email-input {
+    margin-top: 10px;
+    background-color: #141416;
+    border: 1px solid #8a8a8a;
+    color: #8a8a8a;
+    outline: none;
+    border-radius: 8px;
+    padding: 14px 3px 14px 25px;
+    width: 100%;
+    font-size: 16px;
+}
+
+.footer__email-input:hover {
+    border: 2px solid #8a8a8a;
+    padding: 13px 3px 13px 23px;
+}
+
+.footer__email-input:focus {
+    border: 2px solid #8a8a8a;
+    padding: 13px 3px 13px 23px;
+}
+
+.footer__submit-input {
+    margin-top: 30px;
+    background-color: #141416;
+    border: 1px solid #8a8a8a;
+    color: #8a8a8a;
+    cursor: pointer;
+    display: inline;
+    outline: none;
+    border-radius: 8px;
+    transition: .3s;
+    padding: 14px 25px;
+    font-size: 16px;
+}
+
+.footer__submit-input:hover {
+    background-color: #889CE7;
+    border: 1px solid #889CE7;
+    color: #141416;
+}
+
+.footer__socials h3 {
+    font-size: 18px;
+    color: #8a8a8a;
+    font-weight: 400;
+}
+
+.footer__socials-items {
+    display: flex;
+    margin-top: 8px;
+}
+
+.footer__socials-item {
+    display: block;
+    width: 25px;
+    height: 25px;
+    background: no-repeat center/cover;
+    margin-right: 8px;
+}
+
+.footer__socials-item-in {
+    background-image: url('./img/footer-in.webp');
+}
+
+.footer__socials-item-fb {
+    background-image: url('./img/footer-fb.webp');
+}
+
+.footer__socials-item-tw {
+    background-image: url('./img/footer-tw.webp');
+}
+
+.footer__socials p {
+    font-size: 14px;
+    color: #8a8a8a;
+    width: 134px;
+    margin-top: 100px;
+}

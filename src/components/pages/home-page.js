@@ -6,6 +6,7 @@ import TextSection from '../text-section';
 import Numbers from '../numbers';
 import Abstraction from '../abstraction';
 import Business from '../business';
+import Footer from '../footer';
 
 
 export default class HomePage extends Component {
@@ -20,7 +21,8 @@ export default class HomePage extends Component {
         <TextSection />
         <Numbers />
         <Abstraction />
-        <Business />                                                                                                                                                                                                       
+        <Business />
+        <Footer />                                                                                                                                                                                                       
       </div>
     );
   }
