@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/vista/static/css/main.1122d414.chunk.css",
-    "main.js": "/vista/static/js/main.2831d01b.chunk.js",
-    "main.js.map": "/vista/static/js/main.2831d01b.chunk.js.map",
+    "main.css": "/vista/static/css/main.ad689219.chunk.css",
+    "main.js": "/vista/static/js/main.3c40605f.chunk.js",
+    "main.js.map": "/vista/static/js/main.3c40605f.chunk.js.map",
     "runtime-main.js": "/vista/static/js/runtime-main.d77272ff.js",
     "runtime-main.js.map": "/vista/static/js/runtime-main.d77272ff.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/vista/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.f6628503.chunk.js": "/vista/static/js/2.f6628503.chunk.js",
-    "static/js/2.f6628503.chunk.js.map": "/vista/static/js/2.f6628503.chunk.js.map",
+    "static/js/2.82df18fb.chunk.js": "/vista/static/js/2.82df18fb.chunk.js",
+    "static/js/2.82df18fb.chunk.js.map": "/vista/static/js/2.82df18fb.chunk.js.map",
     "index.html": "/vista/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/vista/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.1122d414.chunk.css.map": "/vista/static/css/main.1122d414.chunk.css.map",
-    "static/js/2.f6628503.chunk.js.LICENSE.txt": "/vista/static/js/2.f6628503.chunk.js.LICENSE.txt",
+    "static/css/main.ad689219.chunk.css.map": "/vista/static/css/main.ad689219.chunk.css.map",
+    "static/js/2.82df18fb.chunk.js.LICENSE.txt": "/vista/static/js/2.82df18fb.chunk.js.LICENSE.txt",
     "static/media/abstraction.css": "/vista/static/media/abstraction.e360db90.webp",
     "static/media/business.css": "/vista/static/media/business-bg.74bf7036.webp",
     "static/media/examples.css": "/vista/static/media/examples-cover.82131cc1.webp",
+    "static/media/footer.css": "/vista/static/media/footer-tw.32a62504.webp",
     "static/media/intro.css": "/vista/static/media/intro-cover.e4a411d8.webp",
     "static/media/pic-1.3db2d63b.webp": "/vista/static/media/pic-1.3db2d63b.webp",
     "static/media/pic-2.3ed47f0c.webp": "/vista/static/media/pic-2.3ed47f0c.webp",
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.d77272ff.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.f6628503.chunk.js",
-    "static/css/main.1122d414.chunk.css",
-    "static/js/main.2831d01b.chunk.js"
+    "static/js/2.82df18fb.chunk.js",
+    "static/css/main.ad689219.chunk.css",
+    "static/js/main.3c40605f.chunk.js"
   ]
 }
